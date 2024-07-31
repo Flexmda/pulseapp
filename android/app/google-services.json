@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494392581895",
+    "project_id": "pulse-app-z2lw69",
+    "storage_bucket": "pulse-app-z2lw69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494392581895:android:190a117fafdf5593f02fa2",
+        "android_client_info": {
+          "package_name": "com.mycompany.pulseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdNtA0Kp6WU2oqZa6EJekHeS_UcJ5NoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
